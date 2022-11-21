@@ -9,4 +9,4 @@ Proyecto universidad
 ### -Derek Perez
 ### -Leonardo Solaez
 
-To run the code, you need to use Apache Netbeans and run the `juego.java`.
+Para correr el juego, usa Apache Netbeans y corre el codigo usando el archivo `juego.java`.
