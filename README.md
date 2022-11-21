@@ -3,7 +3,7 @@
 Proyecto universidad
 
 
-## Integrantes
+## Integrantes;
 ### -Sebastian Asprino
 ### -Leonardo Avedaño
 ### -Derek Perez
