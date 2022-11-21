@@ -1,0 +1,40 @@
+Salida	Salida	670,670			
+Dogecoin	Propiedad	606,670	60	2	149,84,54
+Community Chest	Cofre Comunitario	543,670	Obtén una carta de la pila.
+Reddcoin	Propiedad	480,670	60	4	149,84,54
+Impuestos	Impuestos	417,670	200		
+Binance 	Estación	354,670	200	25	255,255,255
+Stellar 	Propiedad	291,670	100	6	127,218,250
+Chance	Suerte	228,670	Obtén una carta de la pila.		
+Ardor	Propiedad	165,670	100	6	127,218,250
+EOS	Propiedad	102,670	120	8	127,218,250
+Carcel	Cárcel	0,670	50		
+Tron	Propiedad	0,606	140	10	247,20,136
+Gdax	Servicio	0,543	150	0	255,255,255
+Nxt	Propiedad	0,480	140	10	247,20,136
+Neo	Propiedad	0,417	160	12	247,20,136
+Poloniex	Estación	0,354	200	25	255,255,255
+Verge	Propiedad	0,291	180	14	255,129,0
+Cofre comunitario	Cofre Comunitario	0,228	Obtén una carta de la pila.		
+Zcash	Propiedad	0,165	180	14	255,129,0
+Monero	Propiedad	0,102	200	16	255,129,0
+Parking gratuito	Parking gratuito	0,0			
+Qtum	Propiedad	102,0	220	18	255,0,25
+Chance	Suerte	165,0	Obtén una carta de la pila.		
+Lisk	Propiedad	228,0	220	18	255,0,25
+Iota	Propiedad	291,0	240	20	255,0,25
+Bittrex	Estación	354,0	200	25	255,255,255
+Ripple	Propiedad	417,0	260	22	255,243,0
+Dash	Propiedad	480,0	260	22	255,243,0
+Bitfinex	Servicio	543,0	150	0	255,255,255
+Litecoin	Propiedad	606,0	280	24	255,243,0
+Ve a la carcel	A Cárcel	669,0			
+Nem	Propiedad	670,102	300	26	0,169,65
+Cardano	Propiedad	670,165	300	26	0,169,65
+Community Chest	Cofre Comunitario	670,228	Obtén una carta de la pila.
+Ethereum	Propiedad	670,291	320	28	0,169,65
+Bithumb	Estación	670,354	200	25	255,255,255
+Chance	Suerte	670,417	Obtén una carta de la pila.		
+Bitcoin cash	Propiedad	670,480	350	35	0,92,176
+Impuestos	Impuestos	670,543	100		
+Bitcoin core	Propiedad	670,606	400	50	0,92,176

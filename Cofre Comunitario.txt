@@ -1,0 +1,16 @@
+Recibe $70	Cofre Comunitario	<html><center>¡Ganaste un airdrop de<br>Stellar!<br>Recibe tu premio.</html></center>
+Recibe $800	Cofre Comunitario	<html><center>Tus criptos se valorizan<br>en el mercado.<br>Recibes compensación.</html></center>
+Recibe $100	Cofre Comunitario	<html><center>Vendiste tus shitcoins.<br>Recibe el dinero<br>ganado.</html></center>
+Recibe $250	Cofre Comunitario	<html><center>Ganaste un día de cero<br>fee.<br>Canjeas el premio por dinero.</html></center>
+Recibe $400	Cofre Comunitario	<html><center>Heredaste $5000 litecoins, pero lo<br>repartes con tu familia.<br>Recibe tu parte.</html></center>
+Recibe $300	Cofre Comunitario	<html><center>Vendiste tus monedas de<br>reddcoin al exchange.<br>Recibe tu pago.</html></center>
+Recibe $600	Cofre Comunitario	<html><center>Tu wallet de EOS<br>fue hackeada. La red de<br>EOS quiere ofrecerte una<br>compensación.</html></center>
+Recibe $200 por jugador	Cofre Comunitario	<html><center>Hiciste farming de algunas<br>monedas. Cobra un<br>costo a cada jugador.</html></center>
+Paga $500	Cofre Comunitario	<html><center>Paga la comision por<br>usar la red de EOS.</html></center>
+Paga $700	Cofre Comunitario	<html><center>Elon Musk quiere comprar<br>tus Dogecoin.<br>toque aqui.</html></center>
+Paga $150	Cofre Comunitario	<html><center>Visitaste a tus familiares<br>en otro país. Paga el<br>costo del viaje.</html></center>
+Paga $100	Cofre Comunitario	<html><center>No reportaste<br>tus wallets a la DIAN.<br>Paga una multa.</html></center>
+Avanza a Salida	Cofre Comunitario	<html><center>Muévete hasta la<br>casilla indicada.<br>Recibe $200.</html></center>
+Regresa a Ardor	Cofre Comunitario	<html><center>Muévete hasta la<br>casilla indicada.<br>Si pasas por Salida<br>recibe $200.</html></center>
+Avanza al Hodl	Cofre Comunitario	<html><center>¡Te investigan por robo de activos!<br>Vas a la cárcel.<br>No pases por Salida.<br>No recibes $200.</html></center>
+Salga del Hodl gratis	Cofre Comunitario	<html><center>Puedes conservar esta<br>tarjeta hasta que<br>la necesites.</html></center>

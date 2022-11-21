@@ -1,0 +1,16 @@
+Paga $90 por Propiedad	Suerte	<html><center>Debes cambiar todas tus<br>wallets. Paga un valor por<br>cada moneda.</center></html>
+Paga $1000	Suerte	<html><center>Elon Musk twitteo<br>dogecoin to the moon.<br>Paga el precio.</center></html>
+Paga $100 por Propiedad	Suerte	<html><center>¡La DIAN esta investigandote!<br>Paga por cada propiedad.</center></html>
+Paga $300	Suerte	<html><center>Fuiste a una convencion<br>de blockchain. Paga por la<br>entrada.</center></html>
+Paga $150	Suerte	<html><center>Te multaron por fraude<br>fiscal D:. Paga<br>la multa.</center></html>
+Recibe $1000	Suerte	<html><center>¡Ganaste la ICO!<br>Recibe tus ganancias.</center></html>
+Recibe $300	Suerte	<html><center>¡Tus inversiones explotaron<br>en el mercado! Recibe las<br>ganancias de holdearlo.</center></html>
+Recibe $80	Suerte	<html><center>Vendes tu BNB al<br>exchage por Internet,<br>recibe el pago.</center></html>
+Regresa 3 casillas 	Suerte	<html><center>¡No puedes pasar!<br>Retrocede.</center></html>
+Avanza a NXT	Suerte	<html><center>Muévete hasta la<br>casilla indicada.<br>Si pasas por Salida<br>recibes $200.</center></html>
+Avanza a Binance	Suerte	<html><center>Muévete hasta la<br>casilla indicada.<br>Si pasas por Salida<br>recibes $200.</center></html>
+Avanza al Hodl	Suerte	<html><center>Olvidaste pagar impuestos.<br>Vas a la cárcel.<br>No pases por Salida.<br>No recibes $200.</center></html>
+Avanza a Salida	Suerte	<html><center>Muévete hasta la<br>casilla indicada.<br>Recibe $200.</center></html>
+Avanza a Zcash	Suerte	<html><center>Muévete hasta la<br>casilla indicada.<br>Si pasas por Salida<br>recibes $200.</center></html>
+Avanza a Tron	Suerte	<html><center>Muévete hasta la<br>casilla indicada.<br>Si pasas por Salida<br>recibes $200.</center></html>
+Salga del Hodl gratis	Suerte	<html><center>Puedes conservar esta<br>tarjeta hasta que<br>la necesites.</center></html>
