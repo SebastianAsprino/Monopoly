@@ -87,7 +87,7 @@ public class PInicio extends JPanel {
         });
         
         jcb = new JComboBox<>();
-        jcb.setModel(new DefaultComboBoxModel<>(new String[] {"0", "2", "3", "4"}));
+        jcb.setModel(new DefaultComboBoxModel<>(new String[] {"2", "3", "4"}));
         jcb.setSize(400, 30);
         jcb.setPreferredSize(jcb.getSize());
         jcb.setBackground(Color.white);
